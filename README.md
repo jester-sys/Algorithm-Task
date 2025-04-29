@@ -22,13 +22,15 @@ Users can dynamically highlight numbers based on the following mathematical patt
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots 
 
 ### 🌆 Light Mode
-<img src="screenshots/screenshot_light_1.png" width="300"/> <img src="screenshots/screenshot_light_2.png" width="300"/>
+<img src="https://github.com/user-attachments/assets/6d0a5183-16d5-41ff-b07e-157da0fbdf21" width="100"/> <img src="https://github.com/user-attachments/assets/61c1a221-6615-4c71-a510-0ad56d104b1e" width="100"/>\
+<img src="https://github.com/user-attachments/assets/06601c3e-a9ac-4e16-90a8-c208a56a1c64" width="100"/> <img src="https://github.com/user-attachments/assets/bd4dfd08-4edd-4c96-b227-7e4473a0448c" width="300"/>
 
 ### 🌙 Dark Mode
-<img src="screenshots/screenshot_dark_1.png" width="300"/> <img src="screenshots/screenshot_dark_2.png" width="300"/>
+<img src="https://github.com/user-attachments/assets/76ae73cd-c467-4f68-ae7e-b55d0632dbf6" width="100"/> <img src="https://github.com/user-attachments/assets/1301a718-af8e-48b1-bda5-e54530de956d" width="100"/>
+<img src="https://github.com/user-attachments/assets/5fbfe3df-3455-4529-8d71-e52a236cfed7" width="100"/> <img src="https://github.com/user-attachments/assets/af3c87f9-a376-477e-b71f-05f66b6ecdc5" width="100"/>
 
 > 📌 **Tip**: Place your screenshots inside a `/screenshots/` folder in the root of the repository.
 
