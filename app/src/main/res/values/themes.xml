@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AlgorithmTask" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="spinnerBackgroundColor">#F0F0F0</item> <!-- Light gray background -->
+        <item name="spinnerBorderColor">#D3D3D3</item> <!-- Light gray border -->
+        <item name="arrow_icon">#000</item>
+
+    </style>
+
+    <style name="Theme.AlgorithmTask" parent="Base.Theme.AlgorithmTask" />
+
+
+
+</resources>
