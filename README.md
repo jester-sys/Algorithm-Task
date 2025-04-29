@@ -1,4 +1,4 @@
-# 📱 Algorithm Task - Android App (JaixLabs)
+# 📱 Algorithm Task - Android App 
 
 An Android application built in **Kotlin** that displays numbers from 1 to 100 in a grid layout.  
 Users can dynamically highlight numbers based on the following mathematical patterns:
@@ -33,6 +33,12 @@ Users can dynamically highlight numbers based on the following mathematical patt
 <img src="https://github.com/user-attachments/assets/5fbfe3df-3455-4529-8d71-e52a236cfed7" width="100"/> <img src="https://github.com/user-attachments/assets/af3c87f9-a376-477e-b71f-05f66b6ecdc5" width="100"/>
 
 > 📌 **Tip**: Place your screenshots inside a `/screenshots/` folder in the root of the repository.
+
+> ## 🎥 Demo Video
+
+Watch the live demo of the app in action:
+
+➡️ [Click here to watch the demo](https://github.com/user-attachments/assets/83f14d5f-207f-439e-a116-f5d8237e6d34)
 
 ---
 
