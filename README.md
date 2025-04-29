@@ -56,7 +56,7 @@ Users can dynamically highlight numbers based on the following mathematical patt
 
 📁 Project Structure
 
-  algorithm-task-android/
+   '''   algorithm-task-android/
 ├── app/
 │   ├── src/
 │   │   └── main/
@@ -79,4 +79,4 @@ Users can dynamically highlight numbers based on the following mathematical patt
 │   ├── screenshot_light_2.png
 │   ├── screenshot_dark_1.png
 │   └── screenshot_dark_2.png
-
+'''
