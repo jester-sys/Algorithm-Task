@@ -6,7 +6,7 @@ Users can dynamically highlight numbers based on the following mathematical patt
 - 🟢 Odd Numbers  
 - 🔵 Even Numbers  
 - 🟠 Prime Numbers  
-- 🟣 Fibonacci Numbers
+- 🕣 Fibonacci Numbers
 
 ---
 
@@ -16,7 +16,7 @@ Users can dynamically highlight numbers based on the following mathematical patt
 - 🔁 Rule-based Highlighting: Odd, Even, Prime, Fibonacci
 - 🎨 Dynamic UI with Smooth Color Transitions
 - 🌗 Light and Dark Theme Support (Material 3)
-- 🧩 Rounded Cards with Elevation & Padding
+- 🧹 Rounded Cards with Elevation & Padding
 - 🎛️ Custom Spinner with Themed Background & Drop-down Arrow
 - ⚡ Optimized for Performance and Clarity
 
@@ -24,7 +24,7 @@ Users can dynamically highlight numbers based on the following mathematical patt
 
 ## 📷 Screenshots
 
-### 🔆 Light Mode
+### 🌆 Light Mode
 <img src="screenshots/screenshot_light_1.png" width="300"/> <img src="screenshots/screenshot_light_2.png" width="300"/>
 
 ### 🌙 Dark Mode
@@ -45,18 +45,26 @@ Users can dynamically highlight numbers based on the following mathematical patt
 
 ---
 
+## 🚀 Getting Started
 
-🧑‍💻 Open in Android Studio:
+To run this project locally:
 
-    Open Project in Android Studio
+```bash
+git clone https://github.com/your-username/algorithm-task-android.git
+```
 
-    Let it Sync Gradle
+### 🧑‍💻 Open in Android Studio:
 
-    Run the app on Emulator or Real Device
+1. **Open Project** in Android Studio  
+2. Let it **Sync Gradle**  
+3. **Run** the app on Emulator or Real Device
 
-📁 Project Structure
+---
 
-   '''   algorithm-task-android/
+## 📁 Project Structure
+
+```
+algorithm-task-android/
 ├── app/
 │   ├── src/
 │   │   └── main/
@@ -65,17 +73,48 @@ Users can dynamically highlight numbers based on the following mathematical patt
 │   │       │       ├── MainActivity.kt
 │   │       │       └── adapter/
 │   │       │           └── NumberAdapter.kt
-│   │       ├── res/
-│   │       │   ├── layout/
-│   │       │   │   ├── activity_main.xml
-│   │       │   │   └── item_number.xml
-│   │       │   ├── drawable/
-│   │       │   │   └── spinner_background_with_icon.xml
-│   │       │   ├── values/
-│   │       │   │   ├── colors.xml
-│   │       │   │   ├── themes.xml
-├── screenshots/
-│   ├── screenshot_light_1.png
-│   ├── screenshot_light_2.png
-│   ├── screenshot_dark_1.png
-│   └── screenshot_dark_2.png  '''
+│   │       └── res/
+│   │           ├── layout/
+│   │           │   ├── activity_main.xml
+│   │           │   └── item_number.xml
+│   │           ├── drawable/
+│   │           │   └── spinner_background_with_icon.xml
+│   │           └── values/
+│   │               ├── colors.xml
+│   │               └── themes.xml
+└── screenshots/
+    ├── screenshot_light_1.png
+    ├── screenshot_light_2.png
+    ├── screenshot_dark_1.png
+    └── screenshot_dark_2.png
+```
+
+---
+
+## 📦 Download APK
+
+You can download the latest release APK from the **Releases** section:
+
+➡️ [**Download Latest APK**](https://github.com/your-username/algorithm-task-android/releases/latest)
+
+> 🔐 **Note**: On your Android device, enable **“Install from unknown sources”** to install the APK if it's not from the Play Store.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome.  
+For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Developed by
+
+**[@Kanhaiya Yadav](https://github.com/your-username)**  
+A proud JaixLabs Production 🇮🇳
